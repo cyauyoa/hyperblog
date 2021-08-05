@@ -41,17 +41,8 @@ body
     margin: 0 auto;
 }
 
-#container h1
-{
-    font-size: 20px;
-}
-
 #post
 {
-<<<<<<< HEAD
-    background: white;
-    padding: 1 em;
-=======
     padding: 1em;
 }
 
@@ -61,5 +52,4 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
